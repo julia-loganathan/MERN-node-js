@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Livre 1",
+    "author": "Auteur 1",
+    "price": 19.99,
+    "details": "Description du Livre 1"
+  },
+  {
+    "id": 2,
+    "title": "Livre 2",
+    "author": "Auteur 2",
+    "price": 24.99,
+    "details": "Description du Livre 2"
+  },
+  {
+    "id": 3,
+    "title": "Livre mis à jour",
+    "author": "Auteur mis à jour",
+    "price": 34.99,
+    "details": "Nouvelle description du livre"
+  }
+]
